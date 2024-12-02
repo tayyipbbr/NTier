@@ -1,0 +1,5 @@
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Entities\obj\Debug\net8.0\NTier.Entities.csproj.AssemblyReference.cache
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Entities\obj\Debug\net8.0\NTier.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Entities\obj\Debug\net8.0\NTier.Entities.AssemblyInfoInputs.cache
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Entities\obj\Debug\net8.0\NTier.Entities.AssemblyInfo.cs
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Entities\obj\Debug\net8.0\NTier.Entities.csproj.CoreCompileInputs.cache
