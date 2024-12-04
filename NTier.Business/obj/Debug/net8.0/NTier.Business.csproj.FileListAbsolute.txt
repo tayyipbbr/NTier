@@ -1,0 +1,16 @@
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Business.csproj.AssemblyReference.cache
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Business.AssemblyInfoInputs.cache
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Business.AssemblyInfo.cs
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Business.csproj.CoreCompileInputs.cache
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Business.sourcelink.json
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\bin\Debug\net8.0\NTier.Business.deps.json
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\bin\Debug\net8.0\NTier.Business.dll
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\bin\Debug\net8.0\NTier.Business.pdb
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\bin\Debug\net8.0\NTier.Entities.dll
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\bin\Debug\net8.0\NTier.Entities.pdb
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Bu.8F016AF3.Up2Date
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Business.dll
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\refint\NTier.Business.dll
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\NTier.Business.pdb
+C:\Users\RECEPTAYYİPBİBER\Source\Repos\2ndNTier\NTier.Business\obj\Debug\net8.0\ref\NTier.Business.dll

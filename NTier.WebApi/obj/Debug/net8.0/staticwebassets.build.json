@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ViqR4WMj8oYJPtIkL2CKGDqw4A3iqGs3HPss5wam8Fk=",
+  "Source": "NTier.WebApi",
+  "BasePath": "_content/NTier.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
